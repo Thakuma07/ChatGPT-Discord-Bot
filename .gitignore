@@ -1,0 +1,20 @@
+# Node.js modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: VSCode workspace settings (if using VSCode)
+.vscode/
+
+# Optional: npm lock file (only if you want fresh installs always)
+package-lock.json
